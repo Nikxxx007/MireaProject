@@ -14,6 +14,7 @@
 8. [Maps](./practice8)
 9. [Android architecture components](./practice9)
 
+[Documentation for every work](./docs)
 
 ### Projects examples:
 <img align="left" width="230" alt="Screenshot 2022-05-24 at 15 44 21" src="https://user-images.githubusercontent.com/56413002/170039161-c31380cf-fec1-42d2-8e4e-9dd8f0c4fd04.png">
