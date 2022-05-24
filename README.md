@@ -1,11 +1,11 @@
 # MireaProject
 
-##Here are my first ever experience with java and android studio
+## Here are my first ever experience with java and android studio
 
-###Work topics:
+### Work topics:
 
 1. [Layout](./practice1)
-[<img align="left" width="120px" src=""/>]
+[<img align="left" width="120px" src="https://user-images.githubusercontent.com/56413002/170036484-37a64386-931a-499a-ad1d-43636c87166e.png"/>]
 2. [Lifecycle, dialog](./practice2)
 [<img align="left" width="120px" src=""/>]
 3. [Intent, fragment](./practice3)
@@ -23,3 +23,4 @@
 9. [Android architecture components](./practice9)
 [<img align="left" width="120px" src=""/>]
 
+![Screenshot 2022-05-24 at 15 37 58](https://user-images.githubusercontent.com/56413002/170036484-37a64386-931a-499a-ad1d-43636c87166e.png)
