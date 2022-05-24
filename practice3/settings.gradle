@@ -12,7 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Lesson3"
+rootProject.name = "practice3"
 include ':IntentApp'
 include ':share'
 include ':resultactivity'

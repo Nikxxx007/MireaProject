@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.mirea.nefed.lesson3"
+        applicationId "com.mirea.nefed.practice3"
         minSdk 21
         targetSdk 32
         versionCode 1

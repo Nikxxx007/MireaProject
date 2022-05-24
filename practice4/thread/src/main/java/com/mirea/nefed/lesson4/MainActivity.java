@@ -1,4 +1,4 @@
-package com.mirea.nefed.lesson4;
+package com.mirea.nefed.practice4;
 
 import androidx.appcompat.app.AppCompatActivity;
 

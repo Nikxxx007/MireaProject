@@ -8,12 +8,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Lesson2">
+        android:theme="@style/Theme.practice2">
         <activity
             android:name=".SecondActivity"
             android:exported="false"
             android:label="@string/title_activity_second"
-            android:theme="@style/Theme.Lesson2.NoActionBar" />
+            android:theme="@style/Theme.practice2.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

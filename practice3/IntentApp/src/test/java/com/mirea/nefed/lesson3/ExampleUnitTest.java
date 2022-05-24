@@ -1,4 +1,4 @@
-package com.mirea.nefed.lesson3;
+package com.mirea.nefed.practice3;
 
 import org.junit.Test;
 
