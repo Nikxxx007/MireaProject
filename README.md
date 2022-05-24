@@ -17,5 +17,7 @@
 [Documentation for every work](./Docs)
 
 ### Projects examples:
-<img align="left" height="520" alt="Screenshot 2022-05-24 at 15 44 21" src="https://user-images.githubusercontent.com/56413002/170039161-c31380cf-fec1-42d2-8e4e-9dd8f0c4fd04.png">
-<img align="left" height="520" alt="Screenshot 2022-05-24 at 15 44 21" src="https://user-images.githubusercontent.com/56413002/170037804-2741ba28-915a-49b0-b59d-3d419766a305.png">
+
+<img height="480" alt="Screenshot 2022-05-24 at 16 22 04" src="https://user-images.githubusercontent.com/56413002/170045474-034b1a77-cba7-4008-95a1-b97bc156a363.png">
+<img align="left" height="480" alt="Screenshot 2022-05-24 at 15 44 21" src="https://user-images.githubusercontent.com/56413002/170037804-2741ba28-915a-49b0-b59d-3d419766a305.png">
+
